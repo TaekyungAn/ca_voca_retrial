@@ -1,24 +1,23 @@
 {
   "days": [
-    { "id": 1, "day": 1 },
-    { "id": 2, "day": 2 },
-    { "id": 3, "day": 3 }
-  ],
-  "words": [
     {
       "id": 1,
-      "day": 1,
-      "eng": "book",
-      "kor": "책",
-      "isDone": true
+      "day": 1
     },
     {
       "id": 2,
-      "day": 1,
-      "eng": "apple",
-      "kor": "사과",
-      "isDone": false
+      "day": 2
     },
+    {
+      "id": 3,
+      "day": 3
+    },
+    {
+      "day": 4,
+      "id": 4
+    }
+  ],
+  "words": [
     {
       "id": 3,
       "day": 2,
@@ -46,6 +45,52 @@
       "eng": "pencil",
       "kor": "연필",
       "isDone": false
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "day": "1",
+      "eng": "hi",
+      "kor": "안녕",
+      "isDone": false,
+      "id": 15
+    },
+    {
+      "day": "2",
+      "eng": "who are you",
+      "kor": "누구세요",
+      "isDone": false,
+      "id": 16
+    },
+    {
+      "day": "4",
+      "eng": "hell yeah",
+      "kor": "개좋아",
+      "isDone": false,
+      "id": 17
+    },
+    {
+      "day": "1",
+      "eng": "nice",
+      "kor": "좋은",
+      "isDone": false,
+      "id": 18
     }
   ]
 }
